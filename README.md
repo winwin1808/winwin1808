@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @winwin1808
-- 🗯️ I love working with data
-- 🌱 I’m currently learning Data Science at VNUK, University of Danang
+- 🗯️ I love working with products
+- 🌱 Engineer's Degree in Data Science at VNUK, University of Danang
 
 ![](https://komarev.com/ghpvc/?username=winwin1808&color=ff69b4)
 <!---
